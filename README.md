@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananya Biswas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyab1909&label=Profile%20views&color=0e75b6&style=flat" alt="ananyab1909" /> </p>
 
-- 👨‍💻 All of my projects are available at [dub.sh/ananyabiswas](dub.sh/ananyabiswas)
+- 👨‍💻 Visit my portfolio at (dub.sh/ananyabiswas)
 
 - 📫 How to reach me **bananya1909@gmail.com**
 
