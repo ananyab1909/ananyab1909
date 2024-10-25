@@ -12,7 +12,7 @@
 <a href="https://twitter.com/not_average_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_average_x" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ananya-biswas-kiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananya-biswas-kiit" height="30" width="40" /></a>
 <a href="https://instagram.com/thegraffiti.mind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thegraffiti.mind" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ananya_b19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ananya_b19" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
