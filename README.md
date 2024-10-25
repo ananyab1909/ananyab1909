@@ -3,9 +3,9 @@
 
 - 👨‍💻 Visit my portfolio at [dub.sh/ananyabiswas](dub.sh/ananyabiswas)
 
-- 📫 How to reach me **bananya1909@gmail.com**
+- 📫 Reach me at **bananya1909@gmail.com**
 
-- ⚡ Fun fact **"A fervent reader of science fiction and fantasy, I have set myself the ambitious goal of devouring all romance books this year.**
+- ⚡ A fervent reader of science fiction and fantasy, I have set myself the ambitious goal of devouring all romance books this year.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
